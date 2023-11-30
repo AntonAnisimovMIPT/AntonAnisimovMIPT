@@ -1,4 +1,4 @@
-### Hi there 👋
+### MIPT SEPM student, beginner programmer
 
 ![](https://komarev.com/ghpvc/?username=AntonAnisimovMIPT)
 
