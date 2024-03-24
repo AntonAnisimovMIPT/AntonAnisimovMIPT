@@ -1,4 +1,4 @@
-### MIPT SEPM student, beginner programmer
+### MIPT DREC student, beginner programmer
 
 ![](https://komarev.com/ghpvc/?username=AntonAnisimovMIPT)
 
