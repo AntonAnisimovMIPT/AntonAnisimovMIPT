@@ -35,16 +35,20 @@
       <div>C++</div>
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
-      <div>Python</div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/>
+      <div>CMake</div>
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
       <div>Bash</div>
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/>
-      <div>CMake</div>
+      <img src="https://www.svgrepo.com/show/374163/verilog.svg" width="40" height="40"/>
+      <div>Verilog</div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+      <div>Python</div>
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
@@ -75,6 +79,10 @@
 <table>
   <tr>
     <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lubuntu_logo_only.svg/600px-Lubuntu_logo_only.svg.png" width="40" height="40"/>
+      <div>Lubuntu</div>
+    </td>
+    <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>
       <div>Ubuntu</div>
     </td>
@@ -99,6 +107,10 @@
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/>
       <div>Matlab</div>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/512px-2023_Obsidian_logo.svg.png" width="40" height="40"/>
+      <div>Obsidian</div>
     </td>
   </tr>
 </table>
