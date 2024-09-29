@@ -20,7 +20,7 @@
   <tr>
     <td colspan="2">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonAnisimovMIPT&layout=compact" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonAnisimovMIPT&langs_count=10&layout=compact" alt="Top Languages"/>
       </a>
       <div>Top Languages</div>
     </td>
