@@ -35,20 +35,20 @@
       <div>C++</div>
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/>
-      <div>CMake</div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" width="40" height="40"/>
+      <div>Rust</div>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="40" height="40"/>
+      <div>Lua</div>
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
       <div>Bash</div>
     </td>
     <td align="center">
-      <img src="https://www.svgrepo.com/show/374163/verilog.svg" width="40" height="40"/>
-      <div>Verilog</div>
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
-      <div>Python</div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/>
+      <div>CMake</div>
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
@@ -56,6 +56,8 @@
     </td>
   </tr>
 </table>
+
+
 
 ### :keyboard: Coding:
 <table>
@@ -86,20 +88,12 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>
       <div>Ubuntu</div>
     </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="40" height="40"/>
-      <div>Fedora</div>
-    </td>
   </tr>
 </table>
 
 ### :toolbox: Others:
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
-      <div>Arduino</div>
-    </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/>
       <div>LaTeX</div>
