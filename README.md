@@ -1,11 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=AntonAnisimovMIPT)
 
-### :man_student: :computer: About Me:
-[MIPT DREC student](https://www.xn--j1alhf.xn--p1ai/), beginner programmer
-
-### 💬 Contact Me: 
-[Telegram](https://t.me/YOD131)
-
 ### :fire: My Stats:
 <table>
   <tr>
