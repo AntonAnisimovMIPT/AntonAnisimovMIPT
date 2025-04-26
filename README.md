@@ -19,7 +19,6 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisimov-anthony&langs_count=10&layout=compact" alt="Top Languages"/>
       </a>
-      <div>Top Languages</div>
     </td>
   </tr>
 </table>
