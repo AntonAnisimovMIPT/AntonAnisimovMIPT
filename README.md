@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://leetcard.jacoblin.cool/AntonAnismovMIPT" alt="LeetCode Stats"/>
+      <img src="https://leetcard.jacoblin.cool/AntonAnisimovMIPT" alt="LeetCode Stats"/>
       <div>LeetCode Stats</div>
     </td>
     <td>
